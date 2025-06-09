@@ -1,0 +1,36 @@
+INTRODUCCION
+
+Este paquete contiene los archivos correspondientes al trabajo integrador para la Evidencia 2 de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial, desarrollado por el grupo integrado por:
+
+- Alvarez Peredo Gonzalo Ezequiel
+- Rubatto Birri Martina Aluminé
+- Ibarra Leandro Martín
+
+--------- Contenido del paquete ---------
+
+	- main.py: Código principal del sistema de gestión de pasajes desarrollado en Python.
+	- Archivos .py : contienen funciones para alimentar el main.py
+
+	- Diagrama: Representación gráfica del modelo de base de datos relacional.
+
+	- Ética.pdf: Documento con el análisis y desarrollo de la parte correspondiente a Ética Profesional.
+
+	- Poster.pdf: Resumen para la defensa del ABP.
+
+	- Estructura ABP.pdf: Estructura para el diseño del proyecto del ABP.
+
+	- Estructura.sql: Los comandos para la creación de la BD y tablas, restricciones, claves primarias, claves foráneas.
+
+	- Datos_y_consultas.sql: Escribir sentencias y consultas.
+
+
+	- INTRODUCCION.txt: Este archivo, que presenta información general sobre la entrega.
+
+
+
+--------- Información adicional ---------
+El código fuente completo, junto con su documentación y README detallado, está disponible en el repositorio público de:
+
+GitHub:https://github.com/eze-alvarez/ABP-ISPC-2025
+
+Se recomienda consultar el repositorio para mayor información sobre la instalación, uso y estructura del proyecto.
